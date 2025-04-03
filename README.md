@@ -18,7 +18,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/healthcare-fraud-detection.git
+   git clone https://github.com/rkumar1010/healthcare-fraud-detection.git
    cd healthcare-fraud-detection
    ```
 2. Run the Jupyter Notebook or execute the script:
